@@ -2,7 +2,7 @@
 <menu>
   <item text="Star Citizen Česko Slovensko">
     <submenu>
-      <item text="Organizace" url="https://www.google.com" />  
+      <item text="Organizace" url="https://robertsspaceindustries.com/orgs/CZSK" />  
       <item text="Discord">
         <submenu>
           <item text="Připojit se na náš Discord" url="https://www.google.com" />
@@ -10,11 +10,11 @@
           <item text="Diskuze k překladu Star Citizen" url="https://www.google.com" />
         </submenu>
       </item>
-      <item text="Komunitní mapa hráčů" url="https://www.google.com" />
-      <item text="Star Citizen CZ/SK Wiki" url="https://www.google.com" />
-      <item text="CZ/SK Bar Citizen" url="https://www.google.com" />
-      <item text="Náš Facebook" url="https://www.google.com" />
-      <item text="Náš Youtube" url="https://www.google.com" />
+      <item text="Komunitní mapa hráčů" url="https://www.google.com/maps/d/u/2/viewer?mid=1D-N794_RD7wsDt5AayWjf0QJ82fwe0o&hl=cs&ll=49.53699999999999%2C16.512000000000018&z=8" />
+      <item text="Star Citizen CZ/SK Wiki" url="https://wiki.theravens.cz/star-citizen/index.php/Hlavn%C3%AD_strana" />
+      <item text="CZ/SK Bar Citizen" url="https://barcitizen.star-citizen.cz/" />
+      <item text="Náš Facebook" url="https://www.facebook.com/StarCitizenCzSk" />
+      <item text="Náš Youtube" url="https://www.youtube.com/c/StarCitizen%C4%8Cesko-Slovensko" />
     </submenu>
   </item>
   <item text="---" />
