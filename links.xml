@@ -9,6 +9,7 @@
           <item text="Kanál s návody" url="https://www.google.com" />
           <item text="Diskuze k překladu Star Citizen" url="https://www.google.com" />
         </submenu>
+      </item>
       <item text="Komunitní mapa hráčů" url="https://www.google.com" />
       <item text="Star Citizen CZ/SK Wiki" url="https://www.google.com" />
       <item text="CZ/SK Bar Citizen" url="https://www.google.com" />
@@ -27,6 +28,7 @@
           <item text="Samostatné lodě" url="https://www.google.com" />
           <item text="Upgrady lodí" url="https://www.google.com" />
         </submenu>
+      </item>
       <item text="Spectrum" url="https://www.google.com" />
       <item text="Issue Council" url="https://www.google.com" />
       <item text="Telemetrie" url="https://www.google.com" />
