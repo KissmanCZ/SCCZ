@@ -19,7 +19,20 @@
   <item text="---" />
   <item text="Roberts Space Industries">
     <submenu>
-      <!-- Add submenu items here if needed -->
+      <item text="Můj RSI účet" url="https://www.google.com" />
+      <item text="Můj RSI hanár" url="https://www.google.com" />
+      <item text="RSI Obchod" url="https://www.google.com" />
+        <submenu>
+          <item text="Herní balíky" url="https://www.google.com" />
+          <item text="Samostatné lodě" url="https://www.google.com" />
+          <item text="Upgrady lodí" url="https://www.google.com" />
+        </submenu>
+      <item text="Spectrum" url="https://www.google.com" />
+      <item text="Issue Council" url="https://www.google.com" />
+      <item text="Telemetrie" url="https://www.google.com" />
+      <item text="Stav RSI služeb" url="https://www.google.com" />
+      <item text="Plán vývoje" url="https://www.google.com" />
+      <item text="Financování vývoje" url="https://www.google.com" />
     </submenu>
   </item>
   <item text="---" />
