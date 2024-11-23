@@ -2,7 +2,18 @@
 <menu>
   <item text="Star Citizen Česko Slovensko">
     <submenu>
-      <!-- Add submenu items here if needed -->
+      <item text="Organizace" url="https://www.google.com" />  
+      <item text="Discord" url="https://www.google.com" />
+        <submenu>
+          <item text="Erkul" url="https://www.google.com" />
+          <item text="Erkul" url="https://www.google.com" />
+          <item text="Erkul" url="https://www.google.com" />
+        </submenu>
+      <item text="Komunitní mapa hráčů" url="https://www.google.com" />
+      <item text="Star Citizen CZ/SK Wiki" url="https://www.google.com" />
+      <item text="CZ/SK Bar Citizen" url="https://www.google.com" />
+      <item text="Náš Facebook" url="https://www.google.com" />
+      <item text="Náš Youtube" url="https://www.google.com" />
     </submenu>
   </item>
   <item text="---" />
