@@ -3,7 +3,7 @@
   <item text="Star Citizen Česko Slovensko">
     <submenu>
       <item text="Organizace" url="https://www.google.com" />  
-      <item text="Discord" url="https://www.google.com" />
+      <item text="Discord">
         <submenu>
           <item text="Připojit se na náš Discord" url="https://www.google.com" />
           <item text="Kanál s návody" url="https://www.google.com" />
@@ -21,7 +21,7 @@
     <submenu>
       <item text="Můj RSI účet" url="https://www.google.com" />
       <item text="Můj RSI hanár" url="https://www.google.com" />
-      <item text="RSI Obchod" url="https://www.google.com" />
+      <item text="RSI Obchod">
         <submenu>
           <item text="Herní balíky" url="https://www.google.com" />
           <item text="Samostatné lodě" url="https://www.google.com" />
