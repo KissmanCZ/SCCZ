@@ -1,0 +1,18 @@
+<menu>
+  <item text="Home" url="http://example.com" />
+  <item text="About" url="http://example.com/about" />
+  <item text="Services">
+    <submenu>
+      <item text="Web Development" url="http://example.com/webdev" />
+      <item text="SEO" url="http://example.com/seo" />
+      <item text="Hosting">
+        <submenu>
+          <item text="Shared Hosting" url="http://example.com/shared" />
+          <item text="Dedicated Hosting" url="http://example.com/dedicated" />
+        </submenu>
+      </item>
+    </submenu>
+  </item>
+  <item text="---" />
+  <item text="Contact" url="http://example.com/contact" />
+</menu>
