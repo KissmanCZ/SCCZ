@@ -20,25 +20,25 @@
   <item text="---" />
   <item text="Roberts Space Industries">
     <submenu>
-      <item text="Můj RSI účet" url="https://www.google.com" />
-      <item text="Můj RSI hanár" url="https://www.google.com" />
+      <item text="Můj RSI účet" url="https://robertsspaceindustries.com/account/settings" />
+      <item text="Můj RSI hanár" url="https://robertsspaceindustries.com/account/pledges" />
       <item text="RSI Obchod">
         <submenu>
-          <item text="Herní balíky" url="https://www.google.com" />
-          <item text="Samostatné lodě" url="https://www.google.com" />
-          <item text="Upgrady lodí" url="https://www.google.com" />
+          <item text="Herní balíky" url="https://robertsspaceindustries.com/store/pledge/browse/game-packages?sort=weight&direction=desc" />
+          <item text="Samostatné lodě" url="https://robertsspaceindustries.com/pledge/ships?sale=true&sortField=name&sortDirection=asc" />
+          <item text="Upgrady lodí" url="https://robertsspaceindustries.com/pledge/ships?sale=true&sortField=name&sortDirection=asc" />
         </submenu>
       </item>
-      <item text="Spectrum" url="https://www.google.com" />
-      <item text="Issue Council" url="https://www.google.com" />
-      <item text="Telemetrie" url="https://www.google.com" />
-      <item text="Stav RSI služeb" url="https://www.google.com" />
-      <item text="Plán vývoje" url="https://www.google.com" />
-      <item text="Financování vývoje" url="https://www.google.com" />
+      <item text="Spectrum" url="https://robertsspaceindustries.com/spectrum/community/SC" />
+      <item text="Issue Council" url="https://issue-council.robertsspaceindustries.com/" />
+      <item text="Telemetrie" url="https://robertsspaceindustries.com/telemetry" />
+      <item text="Stav RSI služeb" url="https://status.robertsspaceindustries.com/" />
+      <item text="Plán vývoje" url="https://robertsspaceindustries.com/roadmap/release-view" />
+      <item text="Financování vývoje" url="https://robertsspaceindustries.com/funding-goals" />
     </submenu>
   </item>
   <item text="---" />
-  <item text="Erkul" url="https://www.google.com" />
-  <item text="CCUgame" url="https://www.google.com" />
-  <item text="UEXcorp" url="https://www.google.com" />
+  <item text="Erkul" url="https://www.erkul.games/" />
+  <item text="CCUgame" url="https://ccugame.app/" />
+  <item text="UEXcorp" url="https://uexcorp.space/" />
 </menu>
