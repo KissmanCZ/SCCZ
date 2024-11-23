@@ -1,18 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <menu>
-  <item text="Home" url="http://example.com" />
-  <item text="About" url="http://example.com/about" />
-  <item text="Services">
+  <item text="Star Citizen Česko Slovensko">
     <submenu>
-      <item text="Web Development" url="http://example.com/webdev" />
-      <item text="SEO" url="http://example.com/seo" />
-      <item text="Hosting">
-        <submenu>
-          <item text="Shared Hosting" url="http://example.com/shared" />
-          <item text="Dedicated Hosting" url="http://example.com/dedicated" />
-        </submenu>
-      </item>
+      <!-- Add submenu items here if needed -->
     </submenu>
   </item>
   <item text="---" />
-  <item text="Contact" url="http://example.com/contact" />
+  <item text="Roberts Space Industries">
+    <submenu>
+      <!-- Add submenu items here if needed -->
+    </submenu>
+  </item>
+  <item text="---" />
+  <item text="Erkul" url="https://www.google.com" />
+  <item text="CCUgame" url="https://www.google.com" />
+  <item text="UEXcorp" url="https://www.google.com" />
 </menu>
